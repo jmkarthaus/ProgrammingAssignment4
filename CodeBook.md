@@ -1,9 +1,9 @@
-#Code Book
+# Code Book
 
 This CodeBook describes each variable and its valaues in the Tidy data ("tidydata.txt").
 Tidy data contains 180 rows and 68 columns.
 
-##There are th following variables:
+## There are the following variables:
 
 **activitylabel**: Factor with 6 levels: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
 **subject**: Numeric, It serves as the identifier of the subject
